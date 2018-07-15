@@ -1,0 +1,7 @@
+$name:#fff;
+#content{
+    color:$name;
+    &:hover{
+        color: #888;
+    }
+}
